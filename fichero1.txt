@@ -9,3 +9,5 @@ feature2
 sigo haciendo cambios
 
 commit uno fastforward
+
+commit dos fastforward
