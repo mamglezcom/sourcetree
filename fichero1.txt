@@ -3,3 +3,5 @@ Este es el fichero 1
 estoy haciendo cambios
 
 cambios 2
+
+feature2
