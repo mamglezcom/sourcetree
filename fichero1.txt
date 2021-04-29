@@ -1,4 +1,7 @@
 Caracteristica 4
+
+hotfix3
+
 cambio hecho en github directamente
 Este es el fichero 1
 
